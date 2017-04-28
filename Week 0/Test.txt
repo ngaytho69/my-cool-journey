@@ -1,0 +1,18 @@
+1.How internet works ?
+2.What is the DOCTYPE meaning in an HTML document ?
+3.Basic meaning of HTML tags?
+-<head>
+-<link>
+-<script>
+-<style>
+-<meta>
+4.Basic meaning or implementation  of HTML elements?
+<p>,<footer>,<header>,<h1> -> <h6>, <ul>, <ol>, <li>, <div>, <span>
+5.How can we link to another web site ? another page ? 
+6.Build 2  web sites using all html tags and elements
++ Introduce about your favorite football club (or stars)
++ Diary
+
+
+
+ 
